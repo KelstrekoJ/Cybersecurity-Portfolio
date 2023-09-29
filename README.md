@@ -13,7 +13,7 @@
 <h2>👨‍💻 CyberSecurity Certifications:</h2>
 
 - [Intoduction to IOTs]()
-- [Introduction to CyberSecurity]()
+- [Introduction to CyberSecurity](https://drive.google.com/file/d/1rX9gkoqojKbFFcJcU-OC4g9cEugKpZ1s/view)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -41,18 +41,37 @@
   - [Risk Management Plan for NISL](https://docs.google.com/document/d/1fiOU6JdiVlUJvSmDgBBXPt90HK58z5In/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
 
 - <b>Introduction to Programming</b>
- - [Presentation on Programming I](https://drive.google.com/file/d/14IeRBD35jHoe1pTO8ez7CLzynIagj1u0/view?usp=drive_link)
- - [Presentation on Programming II](https://drive.google.com/file/d/1ZLCR23kR33AnfBi2baWgUuGvqN43jt1Y/view?usp=drive_link)
+  - [Presentation on Programming I](https://drive.google.com/file/d/14IeRBD35jHoe1pTO8ez7CLzynIagj1u0/view?usp=drive_link)
+  - [Presentation on Programming II](https://drive.google.com/file/d/1ZLCR23kR33AnfBi2baWgUuGvqN43jt1Y/view?usp=drive_link)
 
 - <b>Networking</b>
- - [Ports in Networking](https://docs.google.com/document/d/1IkbB2tTX8ZZyc_vqDEk4CPB2Qcj06HPc/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
- - [Fundamental Concepts of Computer Networking](https://docs.google.com/document/d/1kJXv8hmWxxSAVwEsEFi1UiH4XEdVKXlR/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
- - [Pyhton Password Strength Checker](https://drive.google.com/file/d/1VTy-TBupyq_qIhCuVxFbsbWEFWqve0AY/view?usp=drive_link)
- - [Research on Whatsapp's Security](https://drive.google.com/file/d/1Ds8KXI7l4viIRvG3Gf2lCTG0hgA0_1jS/view?usp=drive_link)
- - [Steps To Take To Prevent Breaches](https://drive.google.com/file/d/1ulqxLM6URHi2Qc08zMNXU_rQeqZuTXi5/view?usp=drive_link)
- - [Security Incident Response Plan](https://docs.google.com/document/d/1lB-Z_jZmDa7MykHriswx4B7phzFvXZsq/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
- - [Video of Me Explaining Network Security](https://drive.google.com/file/d/1Ik8jIKIwjsYkC77wJXDhn8QuIYhSfZKa/view?usp=drive_link)
- - [Networking Assignment](https://drive.google.com/file/d/1C7neKPgjaPbc9YNpS00lgiawuwpZkXuv/view?usp=drive_link)
- - [Networking Assignment Scenario](https://docs.google.com/document/d/184DjeHZf6CpKs8_H7ZkJYnZBSek5PvqR_W021pD5gdE/edit?usp=drive_link)
- - [Firewall Research](https://docs.google.com/document/d/1eS99wi6taoyiU1H_JPHDkbXimxArFLcS/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
- - 
+  - [Ports in Networking](https://docs.google.com/document/d/1IkbB2tTX8ZZyc_vqDEk4CPB2Qcj06HPc/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Fundamental Concepts of Computer Networking](https://docs.google.com/document/d/1kJXv8hmWxxSAVwEsEFi1UiH4XEdVKXlR/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Pyhton Password Strength Checker](https://drive.google.com/file/d/1VTy-TBupyq_qIhCuVxFbsbWEFWqve0AY/view?usp=drive_link)
+  - [Research on Whatsapp's Security](https://drive.google.com/file/d/1Ds8KXI7l4viIRvG3Gf2lCTG0hgA0_1jS/view?usp=drive_link)
+  - [Steps To Take To Prevent Breaches](https://drive.google.com/file/d/1ulqxLM6URHi2Qc08zMNXU_rQeqZuTXi5/view?usp=drive_link)
+  - [Security Incident Response Plan](https://docs.google.com/document/d/1lB-Z_jZmDa7MykHriswx4B7phzFvXZsq/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Video of Me Explaining Network Security](https://drive.google.com/file/d/1Ik8jIKIwjsYkC77wJXDhn8QuIYhSfZKa/view?usp=drive_link)
+  - [Networking Assignment](https://drive.google.com/file/d/1C7neKPgjaPbc9YNpS00lgiawuwpZkXuv/view?usp=drive_link)
+  - [Networking Assignment Scenario](https://docs.google.com/document/d/184DjeHZf6CpKs8_H7ZkJYnZBSek5PvqR_W021pD5gdE/edit?usp=drive_link)
+  - [Firewall Research](https://docs.google.com/document/d/1eS99wi6taoyiU1H_JPHDkbXimxArFLcS/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Network Security Policies](https://drive.google.com/file/d/1K4ldZ2tCqL0OfMjkHAQFcLmoOg2KsXiG/view?usp=drive_link)
+  - [Network Security Poilcy Template](https://docs.google.com/document/d/1ou6GXfrxr33Hf2pT2BiT5RaSnMPj--y4/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [NISL CyberSecurity Policy](https://drive.google.com/file/d/1ErH9SqHpoWexE1p_2Mxgbb9J1tLEESoy/view?usp=drive_link)
+  - [NON3 Network Security Poilcy](https://docs.google.com/document/d/1Ws7wCBNPLxhZx_mFmsvjCRRa21sYiSyB/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Network Topology](https://drive.google.com/file/d/1F3j7BSerq7NP3TYx_Zcd44hAnvmVYE6e/view?usp=drive_link)
+  - [Digital Infrastructure](https://drive.google.com/file/d/1fVeCnxvIJ41LrDnLg-zbSbrLygoGeXnL/view?usp=drive_link)
+  - [Network Security Monitoring and Managing Devices](https://drive.google.com/file/d/1ulqxLM6URHi2Qc08zMNXU_rQeqZuTXi5/view?usp=drive_link)
+
+- <b>CCNA</b>
+   - [UNIT 3 & 4](https://drive.google.com/file/d/1a-paz5eD1j8D0nUzflVLOZXk7n0dsXwe/view?usp=drive_link)
+   - [UNIT 5 & 6](https://drive.google.com/file/d/1YQkogemm5fHk7Pdg1JTOT3sqohEi4csH/view?usp=drive_link)
+   - [Best Practices For Tool Management](https://drive.google.com/file/d/1K9E-V60HHQf11NsGQGw0KKk2UFE6wN0E/view?usp=drive_link)
+   - [Using Wildcards to Match an IPv4 Address Range](https://drive.google.com/file/d/1zegUd7EACJy_L7_kFdhfjyHngAUlXXYk/view?usp=drive_link)
+
+- <b>Summer Holiday Assignemnts</b>
+  - [Providing Helpdesk Support to Clients](https://docs.google.com/document/d/19tEqOvCYY4sIuQZbQEhSkKeKI_BEDBQd/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Software Application Review](https://docs.google.com/document/d/1_rQNbegDDR33P9Y3Ifsp8ud9NFLmbdXa/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Managing Finances with a Budget (Google Doc)](https://drive.google.com/file/d/1W9QK5h-6jrHSEakH5Z4eN83gY9KpaDY_/view?usp=drive_link)
+  - [Managing Finances with a Budget (Excel File)](https://docs.google.com/spreadsheets/d/1X6TqQ-WCdmILElthCCVBd9l259aLdhHt/edit?usp=drive_link&ouid=107615490055158631449&rtpof=true&sd=true)
+  - [Business Plan](https://docs.google.com/document/d/1dZLBAqIRKaAbkFPCYjJsFGeRXQuusN0IqNlbYjShBYM/edit?usp=drive_link)
